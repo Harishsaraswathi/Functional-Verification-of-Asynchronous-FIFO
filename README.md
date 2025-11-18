@@ -189,7 +189,10 @@ endmodule
 ```
 ### Simulation Output
 
---- Paste the output here
+--- 
+<img width="1920" height="1080" alt="Screenshot 2025-11-18 091946" src="https://github.com/user-attachments/assets/ef968c96-4c04-4ae0-92dc-a880b9232c05" />
+
+
 
 ### Result
 
